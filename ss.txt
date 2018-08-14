@@ -2,3 +2,5 @@ python 	to mysql
 	to redis
 	to mongodb
 sql ÑµÁ·¡£
+sssss
+sq
